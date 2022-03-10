@@ -26,18 +26,12 @@ dependencies:
   share: ^2.0.4
   syncfusion_flutter_sliders: 19.4.54
   flutter_localizations:
-    sdk: flutter
+      sdk: flutter
   provider: 6.0.1
   google_maps_flutter: 2.0.3
   google_maps_webservice: 0.0.20-nullsafety.5
   image_picker: 0.7.4
-dependency_overrides:
-  firebase_messaging_platform_interface: 3.1.6
-  firebase_storage_platform_interface: 4.0.14
-  cloud_functions_platform_interface: 5.0.21
-  cloud_firestore_platform_interface: 5.4.13
-  firebase_auth_platform_interface: 6.1.11
-  firebase_database_platform_interface: 0.2.0+5
+
 
 
 
