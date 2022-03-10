@@ -21,7 +21,7 @@ environment:
   sdk: ">=2.14.4 <3.0.0"
 
 dependencies:
-  abg_utils: 6.6.7
+  abg_utils: 6.6.8
   pay: ^1.0.6
   share: ^2.0.4
   syncfusion_flutter_sliders: 19.4.54
